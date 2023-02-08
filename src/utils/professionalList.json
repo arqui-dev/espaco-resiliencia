@@ -6,7 +6,7 @@
         "register": "CRP: 06/70244",
         "health_plans": "",
         "description": "Proprietária e gestora do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue e Conversando Sobre Crianças.",
-        "picture" : true
+        "picture" : false
     },
     {
         "_id": 1,
