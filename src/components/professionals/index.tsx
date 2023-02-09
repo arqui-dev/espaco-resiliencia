@@ -8,7 +8,7 @@ export const ProfessionalList = () => {
             <div className="container">
                 <h2 className="is-title green-text has-text-weight-bold has-text-centered is-size-1"> Profissionais </h2>
                 <h4 className="is-subtitle green-text has-text-weight-semibold has-text-centered is-size-5-mobile is-size-4">
-                Somos Psicólogos, Psiquiatras, Neuropsicólogos, Psicopedagogos, Pedagogos, Neuropsicopedagogos e Terapeutas.
+                Somos profissionais da área da Psicologia, Psiquiatria, Neuropsicologia, Psicopedagogia, Neuropsicopedagogia, Fonoaudióloga e Psicanálise.
                 </h4>
                 <br />
             </div> 
