@@ -5,8 +5,8 @@
         "specialty": "Proprietária e gestora",
         "register": "CRP: 06/70244",
         "health_plans": "",
-        "description": "Proprietária e gestora do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue, Conversando Sobre Crianças e As Salas de Recurso Multifuncionais e o Atendimento Educacional Especializado.",
-        "picture" : false
+        "description": "Proprietária e gestora do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue, Conversando Sobre Crianças e <a href="loja.editoradialetica.com/humanidades/as-salas-de-recursos-multifuncionais-e-o-atendimento-educacional-especializado-o-olhar-das-familias-dos-alunos-com-deficiencia-transtornos-e-altas-habilidades">As Salas de Recurso Multifuncionais e o Atendimento Educacional Especializado.</a>",
+        "picture" : true
     },
     {
         "_id": 1,
@@ -24,6 +24,15 @@
         "register": "CRP: 06/77354",
         "health_plans": "",
         "description": "Psicóloga especialista em Psicologia Clínica. Graduação em Psicologia pela Universidade Paulista de Sorocaba. Especialização em Psicopatologia e Psicooncologia pelo Cefas. Especializanda em Psicologia Clínica pelo Cefas. Psicóloga na Oficina Terapêutica na Associação Pró-Reintegração Social da Criança. Psicoterapeuta Infantil/Adolescente e Adulto. Experiência na área da saúde mental.",
+        "picture" : true
+    },
+    {
+        "_id": 4,
+        "name": "Bruna de Almeida Linhares Sola",
+        "specialty": "Psicóloga",
+        "register": "06 159265",
+        "health_plans": "",
+        "description": "Psicóloga clínica Pós-graduada em Terapia Cognitivo Comportamental (TCC) e Neuropsicologia.  Trabalho com terapia individual, casal, avaliação para realização de cirurgia bariátrica, laqueadura, vasectomia, avaliação vocacional, e avaliação neuropsicológica. Atendimento presencial para todas as idades e online para adolescentes e adultos.",
         "picture" : true
     },
    
