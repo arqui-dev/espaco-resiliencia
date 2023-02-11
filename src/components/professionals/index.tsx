@@ -14,7 +14,7 @@ export const ProfessionalList = () => {
             </div> 
             <div className="container">
                 <div className="masonry">
-                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string; src:string <a href="http://google.com"></a> {
+                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string; src:string <a href="http://google.com"></a>; {
                         
                     } }) => {
                         return(
