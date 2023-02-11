@@ -14,7 +14,7 @@ export const ProfessionalList = () => {
             </div> 
             <div className="container">
                 <div className="masonry">
-                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string; src:string {
+                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string; src:string; {
                         
                     } }) => {
                         return(
@@ -39,7 +39,7 @@ export const ProfessionalList = () => {
                                 </div>
                             </div>
                             <div>
-                                <a src={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element.src + ".html"} alt={Element.name}></a>
+                                <a href={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/livro.html"} alt={Element.name}></a>
                             </div>
                         )
                     })}
