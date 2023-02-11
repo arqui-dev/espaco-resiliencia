@@ -39,7 +39,7 @@ export const ProfessionalList = () => {
                                 </div>
                             </div>
                             <div>
-                                <a href={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element.src + ".html"} alt={Element.name}></a>
+                                <a src={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element.src + ".html"} alt={Element.name}></a>
                             </div>
                         )
                     })}
