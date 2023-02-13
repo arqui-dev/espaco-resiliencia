@@ -14,9 +14,7 @@ export const ProfessionalList = () => {
             </div> 
             <div className="container">
                 <div className="masonry">
-                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string;{
-                        
-                    } }) => {
+                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string;}) => {
                         return(
                             <div className="item">
                                 <div className="card">
