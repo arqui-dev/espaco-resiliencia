@@ -31,11 +31,9 @@
     {
         "_id": 4,
         "name": "Bruna de Almeida Linhares Sola",
-        "name": "Bruna de Almeida Linhares Sola",
         "specialty": "Psicóloga",
         "register": "06/159265",
         "health_plans": "",
-        "description": "Psicóloga clínica Pós-graduada em Terapia Cognitivo Comportamental (TCC) e Neuropsicologia.  Trabalho com terapia individual, casal, avaliação para realização de cirurgia bariátrica, laqueadura, vasectomia, avaliação vocacional, e avaliação neuropsicológica. Atendimento presencial para todas as idades e online para adolescentes e adultos.",
         "description": "Psicóloga clínica Pós-graduada em Terapia Cognitivo Comportamental (TCC) e Neuropsicologia.  Trabalho com terapia individual, casal, avaliação para realização de cirurgia bariátrica, laqueadura, vasectomia, avaliação vocacional, e avaliação neuropsicológica. Atendimento presencial para todas as idades e online para adolescentes e adultos.",
         "picture" : true
     },
