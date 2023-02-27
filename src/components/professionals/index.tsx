@@ -29,7 +29,7 @@ export const ProfessionalList = () => {
                                             ):<></> } 
                                             <div className="media-content">
                                                 <p className="title is-size-5-desktop is-size-4-tablet is-size-6-mobile">{element.name}</p>
-                                                <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.specialty}{element.register}</p>
+                                                <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.specialty}&nbsp;{element.register}</p>
                                             </div>
                                         </div>
                                         <div className="content is-size-6 has-text-justified has-text-weight-light">{element.description}</div>
