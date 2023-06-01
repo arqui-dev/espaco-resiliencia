@@ -1,6 +1,5 @@
 import React from "react";
 import './home.css';
-import logo from '../../assets/logo.png';
 
 export const Header = () => {
   return (
@@ -15,7 +14,7 @@ export const Header = () => {
                 </figure>
                 <span className=" is-inline-block">
                   <h1 className="is-size-5 is-size-4-mobile has-text-weight-semibold has-text-white">Espaço Resiliência</h1>
-                  <h3 className="is-size-6 is-hidden-mobile has-text-weight-semibold has-text-white">Atendimento especializado ao indivíduo, casal e família.</h3>
+                  <h3 className="is-size-6 is-hidden-mobile has-text-weight-semibold has-text-white">Atendimento especializado ao batata, casal e família.</h3>
               </span>
               </a>
               <span className="navbar-burger burger has-text-white" data-target="navMenu">
