@@ -59,15 +59,6 @@
         "description": "Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. Graduada em Psicologia pela Universidade Paulista de Sorocaba, Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. Atuou como Psicóloga no CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil). Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).",
         "picture" : true
     },
-    {
-        "_id": 9,
-        "name": "Mirella Lopes de Paula",
-        "specialty": "Psicóloga",
-        "register": "CRP: 06/52310",
-        "health_plans": "",
-        "description": " Psicóloga Clínica, realiza atendimentos a adolescentes e adultos. Especialização em Terapia Cognitivo Comportamental pelo CETCC. Especialização em Artetetapia pelo NAPE - FAVI. Formação em Psicologia Hospitalar pela PUC - SP. Aprimoramento em Psicoterapia de Grupo pelo EPPA. Aprimoramento em gravidez, parto e puerpério (aspectos psicológicos) pelo Instituto Sedes Sapientiae.  Aprimoramento em Suicídio e Manejo do Comportamento Suicida ministrado pela psicóloga Dra. Karina Okajima Fukumitsu. Curso de Capacitação em Terapia Online - Instituto Terapia Online.",
-        "picture" : true
-    },
     
     {
         "_id": 11,
@@ -132,24 +123,7 @@
         "description": "Olá sou a Vânia Elme.   Psicóloga graduada em 1996 pela Universidade Brás Cubas em Mogi das Cruzes/SP.Especialista em desenvolver a autoestima da  mulher madura.   Idealizadora do projeto 'CinquenDONNAS', que tem como objetivo servir de apoio a mulher de 50 anos ou mais e ajudá-la a ser feliz na nova jornada da vida. A psicoterapia auxilia no processo de adaptação às mudanças fisicas, mentais, sociais, profissionais, amorosas e maternais que esta nova fase da vida exige! Se redescobrindo e desenvolvendo sua autoestima!   Seja Donna do seu nariz!    Das suas escolhas, da sua vida! Se quiser me conhecer pessoalmente eu atendo na unidade 2 do Espaço Resiliência.    Ou se preferir faço atendimento online também!  E para conhecer um pouco mais do meu trabalho siga o meu perfil:    https://www.instagram.com/cinquendonnas Agende uma consulta agora!",
         "picture" : true
     },
-    {
-        "_id": 22,
-        "name": "Dominique Ferraz Suenaga",
-        "specialty": "Psicóloga",
-        "register": "",
-        "health_plans": "",
-        "description": "Psicóloga clínica com abordagem Cognitivo-Comportamental (TCC), com extensão em Transtorno de Ansiedade e Depressão pelo Albert Einstein. Pós-graduada em Neuropsicologia pelo Albert Einstein, Reabilitação Cognitiva também pelo Albert Einstein. Pós graduada em Análise do comportamento aplicado ao ABA e Educação inclusiva.  Sua primeira formação foi em Recursos Humanos, onde atuou  em desenvolvimento organizacional e orientação de carreira, aplicação de testes para jovens e adultos e processos seletivos. Atendimento para Avaliação Neuropsicológica e psicoterapia a partir de 3 anos, adolescentes e adultos.",
-        "picture" : true
-    },
-    {
-        "_id": 26,
-        "name": "Marise Cristina Marcolan Sampaio",
-        "specialty": "",
-        "register": "",
-        "health_plans": "",
-        "description": "Psicanalista. Atendimento para adolescentes e adultos.",
-        "picture" : true
-    },
+
     {
         "_id": 29,
         "name": "Andreia Guimarães Scatigno",
@@ -185,15 +159,6 @@
         "register": "",
         "health_plans": "",
         "description": "Formada em Psicologia de Abordagem Psicanalítica. Experiência com casos de ansiedade, depressão, crises de pânico e vivência do luto. Trabalho pautado em percorrer um caminho pela busca de autonomia emocional diante das mais diversas questões, partindo da premissa de que o autoconhecimento possibilita que se torne mais fácil lidar com as questões que nos afligem ou nos causam dor, visto que, a partir do momento que entendemos melhor o que nos faz mal e porque aquilo nos faz mal, se torna mais fácil lidar com as situações. Atendimento particular online e presencial, voltado apenas para maiores de 18 anos.",
-        "picture" : true
-    },
-    {
-        "_id": 35,
-        "name": "Natália Ito",
-        "specialty": "Psiquiatra",
-        "register": "",
-        "health_plans": "",
-        "description": "Médica Psiquiatra, graduada em Medicina pela Universidade São Francisco - Bragança Paulista. Residência Médica em Psiquiatria pelo CAISM de Franco da Rocha (antigo Juquery). Subespecialização em Psiquiatria Geriátrica pela Unifesp. Faz atendimento psiquiátrico geral de adolescentes a partir dos 15 anos de idade, adultos e atendimento especializado em idosos com ênfase em rastreio de Demências.",
         "picture" : true
     },
     {
