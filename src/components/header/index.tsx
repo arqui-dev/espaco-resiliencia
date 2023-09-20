@@ -33,6 +33,7 @@ export const Header = () => {
           </div>
         </nav>
       </div>
+      
       <div className="hero-body">
         <div className="container has-text-centered-mobile has-text-left">
           <h5 className="has-text-white-ter is-subtitle has-text-weight-semibold is-size-6-mobile is-size-5-tablet is-size-3">
@@ -56,6 +57,11 @@ export const Header = () => {
             <div className="column is-narrow">
               <a className="button is-medium is-primary is-inverted is-outlined" href="#units">
                 <span>Visite nosso Espaço!</span>
+              </a>
+            </div>
+            <div className="column is-narrow">
+              <a className="button is-medium is-primary is-inverted is-outlined" href="#books">
+                <span>Nossas Publicações!</span>
               </a>
             </div>
           </div>
