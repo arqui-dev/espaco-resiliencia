@@ -6,7 +6,9 @@
         "register": "CRP: 06/70244",
         "health_plans": "",
         "description": "Proprietária e gestora do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue, Conversando Sobre Crianças e Salas de Recurso Multifuncionais e o Atendimento Educacional Especializado.",
-        "picture" : true
+        "picture" : true,
+        "books" : true,
+        "book_name":"As Salas de Recursos Multifuncionais e o Atendimento Educacional Especializado: o olhar das famílias dos alunos com deficiência, transtornos e altas habilidades"
         
         
     },
@@ -17,7 +19,10 @@
         "register": "CRP: 06/75045",
         "health_plans": "",
         "description": "Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. Aprimoramento e Psicologia Hospitalar. Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
+    
     },
     {
         "_id": 2,
@@ -26,7 +31,9 @@
         "register": "CRP: 06/77354",
         "health_plans": "",
         "description": "Psicóloga especialista em Psicologia Clínica. Graduação em Psicologia pela Universidade Paulista de Sorocaba. Especialização em Psicopatologia e Psicooncologia pelo Cefas. Especializanda em Psicologia Clínica pelo Cefas. Psicóloga na Oficina Terapêutica na Associação Pró-Reintegração Social da Criança. Psicoterapeuta Infantil/Adolescente e Adulto. Experiência na área da saúde mental.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 4,
@@ -35,7 +42,9 @@
         "register": "06/159265",
         "health_plans": "",
         "description": "Psicóloga clínica Pós-graduada em Terapia Cognitivo Comportamental (TCC) e Neuropsicologia.  Trabalho com terapia individual, casal, avaliação para realização de cirurgia bariátrica, laqueadura, vasectomia, avaliação vocacional, e avaliação neuropsicológica. Atendimento presencial para todas as idades e online para adolescentes e adultos.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
    
 
@@ -48,7 +57,9 @@
         "register": "CRM -SP 121761/RQE-39056",
         "health_plans": "UNIMED e FUNSERV",
         "description": "Médico psiquiatra com título de especialista pela Associação Brasileira de Psiquiatria. Experiência no atendimento de adolescentes ( a partir dos 15 anos), adultos e idosos.  Terapia de Brainspotting no tratamento dos quadros de trauma. Convênios : UNIMED e FUNSERV.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 7,
@@ -57,7 +68,9 @@
         "register": "CRP: 06/85493",
         "health_plans": "",
         "description": "Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. Graduada em Psicologia pela Universidade Paulista de Sorocaba, Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. Atuou como Psicóloga no CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil). Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     
     {
@@ -67,7 +80,9 @@
         "register": "CRP: 06/119915",
         "health_plans": "",
         "description": "Graduada em psicologia e especialista em Psicoterapia Breve Operacionalizada com Orientação Psicanalítica pela Universidade Paulista de Sorocaba. Experiência no atendimento a vítimas de violência e questões relacionadas ao uso de substâncias psicoativas. Atendimento à crianças, adolescentes e adultos",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 13,
@@ -76,7 +91,9 @@
         "register": "CRP: 72153",
         "health_plans": "",
         "description": "Pós graduação em Acupuntura Sistêmica Auricular e Acupuntura Quantica Bioenergética. Tratamento com adolescentes e adultos.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 15,
@@ -85,7 +102,9 @@
         "register": "CRP: 113704",
         "health_plans": "",
         "description": "Psicóloga Clínica, especialista em Neuropsicologia.Atendimento para adolescentes, adultos e casais com abordagem em Fenomenologia Existencial.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 16,
@@ -94,7 +113,9 @@
         "register": "CRP: 06/157485",
         "health_plans": "",
         "description": "Graduada em Psicologia pela Universidade Paulista - UNIP. Realiza atendimento de crianças, adolescentes e adultos, com orientação psicanalítica.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 19,
@@ -103,7 +124,9 @@
         "register": "CRP: 06/69778",
         "health_plans": "",
         "description": "Psicóloga Clínica, Especialização em Infância, Adolescência ,Psicopatologia Atendimento Grupal e Violência Doméstica. Experiência de mais de 20 anos em Saúde Mental Realizo Supervisão de Psicólogos, Avaliação Psicológica, Avaliação Intelectual, Avaliação Bariátrica e Atendimento em inglês. Crianças sem restrição de idade, adolescentes e adultos.",
-        "picture" : false
+        "picture" : false,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 20,
@@ -112,18 +135,10 @@
         "register": "CRP: 103360",
         "health_plans": "",
         "description": "Psicóloga Clínica há 11 anos, atualmente especializando em Sexualidade Humana, além da Psicopedagogia, Neuropsicopedagogia e Atendimento em Libras. Atendimento em todas as idades. Abordagem Fenomenologia Existêncial.A Psicologia é a razão do meu Viver, poder auxiliar o Ser Humano em seu processo de Construção e ver os resultados é um prazer imensurável",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
-    {
-        "_id": 21,
-        "name": "Vânia Elme",
-        "specialty": "Psicóloga",
-        "register": "CRP 67628",
-        "health_plans": "",
-        "description": "Olá sou a Vânia Elme.   Psicóloga graduada em 1996 pela Universidade Brás Cubas em Mogi das Cruzes/SP.Especialista em desenvolver a autoestima da  mulher madura.   Idealizadora do projeto 'CinquenDONNAS', que tem como objetivo servir de apoio a mulher de 50 anos ou mais e ajudá-la a ser feliz na nova jornada da vida. A psicoterapia auxilia no processo de adaptação às mudanças fisicas, mentais, sociais, profissionais, amorosas e maternais que esta nova fase da vida exige! Se redescobrindo e desenvolvendo sua autoestima!   Seja Donna do seu nariz!    Das suas escolhas, da sua vida! Se quiser me conhecer pessoalmente eu atendo na unidade 2 do Espaço Resiliência.    Ou se preferir faço atendimento online também!  E para conhecer um pouco mais do meu trabalho siga o meu perfil:    https://www.instagram.com/cinquendonnas Agende uma consulta agora!",
-        "picture" : true
-    },
-
     {
         "_id": 29,
         "name": "Andreia Guimarães Scatigno",
@@ -131,7 +146,9 @@
         "register": "CRP 82192",
         "health_plans": "",
         "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 30,
@@ -140,7 +157,9 @@
         "register": "CRP 06/523965",
         "health_plans": "",
         "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduação em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento bilíngue (Espanhol e Inglês).",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 31,
@@ -149,7 +168,9 @@
         "register": "CRP 06/130.993",
         "health_plans": "",
         "description": "Formada há vinte anos em Arte Educação, ainda atuando na área. Pós-graduada há 12 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos. Formada há 05 anos em Psicologia, atuando na área clínica na abordagem psicanalítica. Atendimento de adolescentes e adultos, presencial e online.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
   
     {
@@ -159,7 +180,9 @@
         "register": "",
         "health_plans": "",
         "description": "Formada em Psicologia de Abordagem Psicanalítica. Experiência com casos de ansiedade, depressão, crises de pânico e vivência do luto. Trabalho pautado em percorrer um caminho pela busca de autonomia emocional diante das mais diversas questões, partindo da premissa de que o autoconhecimento possibilita que se torne mais fácil lidar com as questões que nos afligem ou nos causam dor, visto que, a partir do momento que entendemos melhor o que nos faz mal e porque aquilo nos faz mal, se torna mais fácil lidar com as situações. Atendimento particular online e presencial, voltado apenas para maiores de 18 anos.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 36,
@@ -168,7 +191,9 @@
         "register": "",
         "health_plans": "",
         "description": "Sou Clarice Rodrigues, pedagoga especialista em psicopedagogia e neuropsicopedagogia. Meu trabalho é focado na aprendizagem, ou seja, é direcionado a pessoas que tem dificuldades de aprendizagem, independente se tem transtorno, síndrome ou não, sendo apenas um prejuízo ou defasagem escolar, ou seja, atende pessoas com ou sem necessidades especiais educativas porque vai focar no processo de aprendizagem. Também não há limite para a idade já que aprendemos durante toda a nossa vida. Eu vou desenvolver um plano de ação com estratégias especializadas para facilitar o processo de aprendizagem.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 38,
@@ -177,7 +202,9 @@
         "register": "",
         "health_plans": "",
         "description": "Fonoaudióloga formada há 16 anos. Realizou os estudos na área da Saúde Mental pela Unifesp/SP e Dislexia e Distúrbios de Aprendizagem pelo Cefac/SP. Atuou em instituição de Saúde Mental por 14 anos, nos atendimentos de crianças e adolescentes com distúrbios do comportamento. Desde a formação, atende em consultório com experiência na área da linguagem, fala, motricidade oral, leitura e escrita. Atendimento de crianças e adolescentes.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     },
     {
         "_id": 39,
@@ -186,7 +213,9 @@
         "register": "CRP 06/163310 ",
         "health_plans": "",
         "description": "Psicóloga com atuação Psicanalítica, atende crianças, adolescentes e adultos.  Experiência em traumas, ansiedade, depressão, perdas e luto. Graduada em Psicologia pela Universidade Paulista-UNIP, Pós graduanda em ArteTerapia.",
-        "picture" : true
+        "picture" : true,
+        "books":false,
+        "book_name":""
     }
 ]
 
