@@ -12,12 +12,12 @@ export const Products = () => {
             </div>
             <div className="container" id='product'>
                 <div className="masonry">
-                    {products.map((element: {_idPro: number; books:boolean; book_name:string; products_image:boolean; link1:string; name_products:string}) => {
+                    {products.map((element: {_idPro: number; books:boolean; book_name:string; book_name2:string; products_image:boolean; link1:string;link2:string; name_products:string; idFoto:string}) => {
                         return(
                             <div className="item">
                                     <div className="card">
                                         <div className="card-content">
-                                            <div className="media">
+                                            <div className="media" id={element.idFoto}>
                                                 {element.products_image ? ( 
                                                 <div className="media-left"> 
                                                     <figure className="image is-128x128">
@@ -29,6 +29,10 @@ export const Products = () => {
                                                     <p className="title is-size-5-desktop is-size-4-tablet is-size-6-mobile">{element.name_products}</p>
                                                     <p>{element.books ? (
                                                         <a target='._blank' href={element.link1}  >{element.book_name}</a>
+                                                    ):<></>}</p>
+                                                    &nbsp; <br />
+                                                    <p>{element.books ? (
+                                                        <a target='._blank' href={element.link2}  >{element.book_name2}</a>
                                                     ):<></>}</p>
                                                 </div>
                                             </div>

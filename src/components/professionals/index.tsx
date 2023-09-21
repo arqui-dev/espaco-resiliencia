@@ -14,7 +14,7 @@ export const ProfessionalList = () => {
             </div> 
             <div className="container">
                 <div className="masonry">
-                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string}) => {
+                    {professionals.map((element: { name: string; specialty: string; register: string; _id: number; picture: boolean; description: string; linkToProducts:string; _idFoto:string}) => {
                         return(
                             <div className="item">
                                 <div className="card">
@@ -29,7 +29,7 @@ export const ProfessionalList = () => {
                                             ):<></> } 
                                             <div className="media-content">
                                                 <p className="title is-size-5-desktop is-size-4-tablet is-size-6-mobile">{element.name}</p>
-                                                <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.specialty}&nbsp; <br />{element.register}</p>
+                                                <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.specialty}&nbsp; <br />{element.register}&nbsp; <br /> <a href={"#"+element._idFoto}>{element.linkToProducts}</a> </p>
                                             </div>
                                         </div>
                                         <div className="content is-size-6 has-text-justified has-text-weight-light">{element.description}</div>
