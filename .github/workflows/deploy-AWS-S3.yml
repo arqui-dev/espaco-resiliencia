@@ -1,4 +1,4 @@
-name: Pipeline to deploy site
+name: Pipeline to deploy espaco resiliencia
 
 # This determines when the action should run. 
 on:
