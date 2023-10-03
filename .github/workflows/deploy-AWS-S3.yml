@@ -7,8 +7,6 @@ on:
     merge_group: 
         branches: [ main ]
     workflow_dispatch:
-    push:
-        branches: [ dev ]
 env:
     AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -40,6 +38,9 @@ jobs:
         needs: build
         runs-on: ubuntu-latest
         steps:
+        -   name: Checkout code
+            uses: actions/checkout@v2
+
         -   name: Configure AWS Credentials
             uses: aws-actions/configure-aws-credentials@v2
             with:

@@ -19,8 +19,8 @@ img/
 
 # misc
 .DS_Store
-
-
+.env*
+.github
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
