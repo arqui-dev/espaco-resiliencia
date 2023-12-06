@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.6.0",
     "@types/jest": "^26.0.19",
     "@types/react": "^17.0.65",
-    "@types/react-dom": "^17.0.0",
+    "@types/react-dom": "^17.0.23",
     "bulma": "^0.9.1",
     "node-sass": "^7.0.2",
     "react": "^17.0.1",
