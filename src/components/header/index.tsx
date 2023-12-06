@@ -4,12 +4,12 @@ import logo from '../../assets/logo.png';
 
 export const Header = () => {
   return (
-    <header className="hero bg-img">
+    <header className="hero bg-img" id="header">
       <div className="hero-head">
         <nav className="navbar">
           <div className="container">
             <div className="navbar-brand">
-              <a className="navbar-item" href="https://espaçoresiliencia.com">
+              <a className="navbar-item" href="#header">
                 <figure className="image is-64x64">
                   <img className="image logo" src={logo} alt="Espaço Resiliência - Atendimento ao indivíduo, casal e família" />
                 </figure>
