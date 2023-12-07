@@ -65,6 +65,16 @@
         "linkToProducts":"",
         "_idFoto":""
     },
+    {
+        "_id": 10,
+        "name": "Estela Franco Pires",
+        "specialty": "Psicóloga",
+        "register": "CRP 06/103490",
+        "description": "Especialista em Neuropsicologia e membro do clube da formação no ATIVAMENTE (2022) e pós graduada em Inclusão Escolar, Transtornos Neurodesenvolvimento e Neurociência. Universidade Tec. Federal - PR (2021), Habilitação em ABA pela Academia do Autismo (2021), especialização em neuropsicologia pela Faculdade de Ciências médicas na Santa Casa de SP (Dez/2020). Pós-graduação em Psicodrama Nível II Psicodrama Didata (2018), Clínico (2014) e Sócio Educacional (2012) e Psicóloga clínica desde 2010 (CRP 06/103490). Criadora do Programa EQV - Escola de Qualidade de Vida, atualmente na 25° edição. Experiência hospitalar nos atendimentos dos pacientes dos ambulatórios da Santa Casa em SP durante a formação em Neuropsicologia, realizando avaliação neuropsicológica e descrevendo o direcionamento da conduta sugerida a partir dos resultados obtidos na avaliação. Realização de Avaliação Psicológica nos contextos: Clínico; Escolar; ASO - Atestado de Saúde Ocupacional; R&S - Recrutamento e Seleção (interno/externo); PDI - Plano de Desenvolvimento Individual; Planos de Sucessão e Acolhimento Organizacional como suporte de saúde mental no trabalho. Atendimentos em avaliações e reabilitação neuropsicológica, membro da Associação 'Se tem vida, tem jeito!' presidida pela dra. Karina Fukumitsu.",
+        "picture" : true,
+        "linkToProducts":"",
+        "_idFoto":""
+    },
     
     {
         "_id": 11,
