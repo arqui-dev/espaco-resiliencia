@@ -11,7 +11,7 @@ export const UnitList = () => {
                 <h2 className="is-title green-text has-text-weight-bold has-text-centered is-size-1"> Unidades </h2>
             </div> 
             <div className="columns is-mobile is-centered is-multiline">
-                {units.map((element: { picture: string; unitName: string; address: string; phone: string; whatsapp: string; maps: string }) => {
+                {units.map((element: { picture: string; unitName: string; address: string; phone: string; whatsapp: string; maps: string; link:string }) => {
                     return(
                         <div className="column is-12-mobile is-6-tablet is-5-desktop is-4-widescreen">
                             <div className="card">
@@ -29,8 +29,8 @@ export const UnitList = () => {
                                     <div className="content">
                                         <p className="subtitle is-size-6-mobile is-size-5"><i className="fas fa-map-marker-alt"></i>  {element.address}</p>
                                         <p className="subtitle is-size-6-mobile is-size-5"><i className="fas fa-phone-square"></i>  {element.phone}</p>
-                                        <p className="subtitle is-size-6-mobile is-size-5"><i className="fab fa-whatsapp"></i>  {element.whatsapp}</p>
-                                    </div>
+                                        <p className="subtitle is-size-6-mobile is-size-5"> <i className="fab fa-whatsapp"></i><a href={element.link} target="_blank" rel="noopener noreferrer">  {element.whatsapp}</a></p>
+                                    </div> 
                                     <footer className="card-footer">
                                         <iframe className="google-map-card" title={element.unitName} src={element.maps}></iframe>
                                     </footer>

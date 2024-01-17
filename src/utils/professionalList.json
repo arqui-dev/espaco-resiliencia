@@ -7,7 +7,9 @@
         "description": "Proprietária e gestora do Espaço Resiliência. Psicóloga Clínica com Formação em Avaliação Neuropsicológica de Crianças e Adolescentes. Especialista em Psicologia Escolar e Educacional. Terapeuta Sistêmica de Casal e Família. Pedagoga Especialista em Educação Especial Inclusiva e Mestre em Educação pela Universidade de Sorocaba-UNISO. Autora dos livros Vida que segue, Conversando Sobre Crianças e Salas de Recurso Multifuncionais e o Atendimento Educacional Especializado.",
         "picture" : true,
         "linkToProducts":"Publicações",
-        "_idFoto":"mae"
+        "_idFoto":"mae",
+        "stamp":1.1,
+        "stamp_picture":false
     },
     {
         "_id": 1,
@@ -17,7 +19,9 @@
         "description": "Psicóloga clínica com abordagem psicanalítica realizando atendimento à crianças, adolescentes e adultos. Graduação em Psicologia pela Universidade Católica de Santos. Aprimoramento em Psicologia do Desenvolvimento pela Universidade Católica de Santos. Especialização em Psicopedagogia Clinica e Institucional pela Universidade de Sorocaba. Avaliação psicopedagógica em crianças e adolescentes com dificuldades de aprendizagem. Aprimoramento e Psicologia Hospitalar. Consultora em Psicologia Escolar e Grupo de Orientação para Pais e Professores.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp": 1.1,
+        "_idFoto":"",
+        "stamp_picture":false
         
     
     },
@@ -29,7 +33,9 @@
         "description": "Psicóloga especialista em Psicologia Clínica. Graduação em Psicologia pela Universidade Paulista de Sorocaba. Especialização em Psicopatologia e Psicooncologia pelo Cefas. Especializanda em Psicologia Clínica pelo Cefas. Psicóloga na Oficina Terapêutica na Associação Pró-Reintegração Social da Criança. Psicoterapeuta Infantil/Adolescente e Adulto. Experiência na área da saúde mental.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":2.2,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 4,
@@ -39,7 +45,9 @@
         "description": "Psicóloga clínica Pós-graduada em Terapia Cognitivo Comportamental (TCC) e Neuropsicologia.  Trabalho com terapia individual, casal, avaliação para realização de cirurgia bariátrica, laqueadura, vasectomia, avaliação vocacional, e avaliação neuropsicológica. Atendimento presencial para todas as idades e online para adolescentes e adultos.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":4.4,
+        "_idFoto":"",
+        "stamp_picture":false
     },
    
 
@@ -53,7 +61,9 @@
         "description": "Médico psiquiatra com título de especialista pela Associação Brasileira de Psiquiatria. Experiência no atendimento de adolescentes ( a partir dos 15 anos), adultos e idosos.  Terapia de Brainspotting no tratamento dos quadros de trauma. Convênios : UNIMED e FUNSERV.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":5.5,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 7,
@@ -63,7 +73,9 @@
         "description": "Psicóloga com Experiência na Área da Saúde Mental, psicoterapeuta Infantil, Adolescente e Adulto. Graduada em Psicologia pela Universidade Paulista de Sorocaba, Especialista em Psicologia Clínica pelo CEFAS e com aprimoramento em Saúde Mental Comunitária na Infância e Adolescência. Atuou como Psicóloga no CAPS-IJ (Centro de Atenção Psicossocial Infanto-Juvenil). Conhecimento Básico de LIBRAS (Língua Brasileira de Sinais).",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":7.7,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 10,
@@ -73,7 +85,9 @@
         "description": "Especialista em Neuropsicologia e membro do clube da formação no ATIVAMENTE (2022) e pós graduada em Inclusão Escolar, Transtornos Neurodesenvolvimento e Neurociência. Universidade Tec. Federal - PR (2021), Habilitação em ABA pela Academia do Autismo (2021), especialização em neuropsicologia pela Faculdade de Ciências médicas na Santa Casa de SP (Dez/2020). Pós-graduação em Psicodrama Nível II Psicodrama Didata (2018), Clínico (2014) e Sócio Educacional (2012) e Psicóloga clínica desde 2010 (CRP 06/103490). Criadora do Programa EQV - Escola de Qualidade de Vida, atualmente na 25° edição. Experiência hospitalar nos atendimentos dos pacientes dos ambulatórios da Santa Casa em SP durante a formação em Neuropsicologia, realizando avaliação neuropsicológica e descrevendo o direcionamento da conduta sugerida a partir dos resultados obtidos na avaliação. Realização de Avaliação Psicológica nos contextos: Clínico; Escolar; ASO - Atestado de Saúde Ocupacional; R&S - Recrutamento e Seleção (interno/externo); PDI - Plano de Desenvolvimento Individual; Planos de Sucessão e Acolhimento Organizacional como suporte de saúde mental no trabalho. Atendimentos em avaliações e reabilitação neuropsicológica, membro da Associação 'Se tem vida, tem jeito!' presidida pela dra. Karina Fukumitsu.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":10.10,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     
     {
@@ -84,7 +98,9 @@
         "description": "Graduada em psicologia e especialista em Psicoterapia Breve Operacionalizada com Orientação Psicanalítica pela Universidade Paulista de Sorocaba. Experiência no atendimento a vítimas de violência e questões relacionadas ao uso de substâncias psicoativas. Atendimento à crianças, adolescentes e adultos",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":11.11,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 13,
@@ -94,7 +110,9 @@
         "description": "Pós graduação em Acupuntura Sistêmica Auricular e Acupuntura Quantica Bioenergética. Tratamento com adolescentes e adultos.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":13.13,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 15,
@@ -104,7 +122,9 @@
         "description": "Psicóloga Clínica, especialista em Neuropsicologia.Atendimento para adolescentes, adultos e casais com abordagem em Fenomenologia Existencial.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":15.15,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 16,
@@ -114,7 +134,9 @@
         "description": "Graduada em Psicologia pela Universidade Paulista - UNIP. Realiza atendimento de crianças, adolescentes e adultos, com orientação psicanalítica.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":16.16,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 19,
@@ -124,7 +146,9 @@
         "description": "Psicóloga Clínica, Especialização em Infância, Adolescência ,Psicopatologia Atendimento Grupal e Violência Doméstica. Experiência de mais de 20 anos em Saúde Mental Realizo Supervisão de Psicólogos, Avaliação Psicológica, Avaliação Intelectual, Avaliação Bariátrica e Atendimento em inglês. Crianças sem restrição de idade, adolescentes e adultos.",
         "picture" : false,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":19.19,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 20,
@@ -134,7 +158,9 @@
         "description": "Psicóloga Clínica há 11 anos, atualmente especializando em Sexualidade Humana, além da Psicopedagogia, Neuropsicopedagogia e Atendimento em Libras. Atendimento em todas as idades. Abordagem Fenomenologia Existêncial.A Psicologia é a razão do meu Viver, poder auxiliar o Ser Humano em seu processo de Construção e ver os resultados é um prazer imensurável",
         "picture": true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":20.20,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 29,
@@ -144,7 +170,9 @@
         "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":29.29,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 30,
@@ -154,7 +182,9 @@
         "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduação em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento bilíngue (Espanhol e Inglês).",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":30.30,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 31,
@@ -164,7 +194,9 @@
         "description": "Formada há vinte e quatro anos em Arte Educação, ainda atuando na área. Pós-graduada há 14 anos em Arteterapia e Saúde pela abordagem Junguiana na Universidade Cândido Mendes, do Rio de Janeiro, com polo no Instituto A Vez do Mestre, localizado em Santos. Formada há 08 anos em Psicologia, atuando na área clínica na abordagem psicanalítica. Atendimento de crianças, adolescentes e adultos, presencial e online.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":31.31,
+        "_idFoto":"",
+        "stamp_picture":false
     },
   
     {
@@ -175,7 +207,9 @@
         "description": "Formada em Psicologia de Abordagem Psicanalítica. Experiência com casos de ansiedade, depressão, crises de pânico e vivência do luto. Trabalho pautado em percorrer um caminho pela busca de autonomia emocional diante das mais diversas questões, partindo da premissa de que o autoconhecimento possibilita que se torne mais fácil lidar com as questões que nos afligem ou nos causam dor, visto que, a partir do momento que entendemos melhor o que nos faz mal e porque aquilo nos faz mal, se torna mais fácil lidar com as situações. Atendimento particular online e presencial, voltado apenas para maiores de 18 anos.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":34.34,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 36,
@@ -185,7 +219,9 @@
         "description": "Sou Clarice Rodrigues, pedagoga especialista em psicopedagogia e neuropsicopedagogia. Meu trabalho é focado na aprendizagem, ou seja, é direcionado a pessoas que tem dificuldades de aprendizagem, independente se tem transtorno, síndrome ou não, sendo apenas um prejuízo ou defasagem escolar, ou seja, atende pessoas com ou sem necessidades especiais educativas porque vai focar no processo de aprendizagem. Também não há limite para a idade já que aprendemos durante toda a nossa vida. Eu vou desenvolver um plano de ação com estratégias especializadas para facilitar o processo de aprendizagem.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":36.36,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 38,
@@ -195,7 +231,9 @@
         "description": "Fonoaudióloga formada há 16 anos. Realizou os estudos na área da Saúde Mental pela Unifesp/SP e Dislexia e Distúrbios de Aprendizagem pelo Cefac/SP. Atuou em instituição de Saúde Mental por 14 anos, nos atendimentos de crianças e adolescentes com distúrbios do comportamento. Desde a formação, atende em consultório com experiência na área da linguagem, fala, motricidade oral, leitura e escrita. Atendimento de crianças e adolescentes.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":38.38,
+        "_idFoto":"",
+        "stamp_picture":false
     },
     {
         "_id": 39,
@@ -205,7 +243,9 @@
         "description": "Psicóloga com atuação Psicanalítica, atende crianças, adolescentes e adultos.  Experiência em traumas, ansiedade, depressão, perdas e luto. Graduada em Psicologia pela Universidade Paulista-UNIP, Pós graduanda em ArteTerapia.",
         "picture" : true,
         "linkToProducts":"",
-        "_idFoto":""
+        "stamp":39.39,
+        "_idFoto":"",
+        "stamp_picture":false
     }
 ]
 
