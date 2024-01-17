@@ -14,6 +14,10 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
+p figure img{
+    padding: 0.5rem;
+    height: 6rem;
+}
 
 @media only screen and (max-width: 320px) {
     .masonry {

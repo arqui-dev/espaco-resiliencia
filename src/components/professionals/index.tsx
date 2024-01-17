@@ -31,8 +31,8 @@ export const ProfessionalList = () => {
                                                 <p className="title is-size-5-desktop is-size-4-tablet is-size-6-mobile">{element.name}</p>
                                                 <p className="subtitle is-size-6-desktop is-size-6-tablet is-size-7-mobile">{element.specialty}&nbsp; <br />{element.register}&nbsp; <br /> <a href={"#"+element._idFoto}>{element.linkToProducts}</a>
                                                     {element.stamp_picture ? (
-                                                        <figure className="image is-40x40">
-                                                        <img src={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element.stamp + ".jpg"} alt=""></img>
+                                                        <figure>
+                                                            <img src={"https://s3-sa-east-1.amazonaws.com/espacoresiliencia.com/profissionais/" + element.stamp + ".png"} alt=""></img>
                                                         </figure>
 
                                                     ):<> </>}

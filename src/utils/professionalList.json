@@ -165,7 +165,7 @@
     {
         "_id": 29,
         "name": "Andreia Guimarães Scatigno",
-        "specialty": "",
+        "specialty": "Psicóloga",
         "register": "CRP 82192",
         "description": "Sou psicóloga há 15 anos e especialista em Terapia Cognitiva Comportamental. Trabalhei por 10 anos com Dependentes Químicos em regime institucional e atualmente meu foco são os atendimentos clínicos voltado para mulheres que desejam resgatar sua autoestima, se empoderarem de quem elas são, mulheres que queiram se tornar mais seguras e confiantes, resgatar seu amor próprio e tudo o que diz respeito a autoestima da mulher, em especial na esfera afetiva.",
         "picture" : true,
@@ -182,9 +182,9 @@
         "description": "Graduação em Psicologia pela PUCRS. Pós graduação em Psicossomática pela FACIS. Pós Graduação em Psicologia Positiva pela PUC-RS. Coach profissinal credenciada pela Federação Internacional de Coaching - ICF. Experiência de mais de 35 anos no desenvolvimento humano. Especialidade no gerenciamento de estresse, ansiedade, burn-out e doenças psicossomáticas. Atendimento de adultos em busca do autoconhecimento, saúde, bem-estar e auto-realização. Atendimento bilíngue (Espanhol e Inglês).",
         "picture" : true,
         "linkToProducts":"",
-        "stamp":30.30,
+        "stamp":30.3,
         "_idFoto":"",
-        "stamp_picture":false
+        "stamp_picture":true
     },
     {
         "_id": 31,
