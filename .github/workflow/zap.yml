@@ -1,0 +1,39 @@
+name: CI
+
+# This determines when the action should run. 
+on:
+    
+    push:
+        branches: [dev]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest # The type of runner that the job will run on
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v2 # This step checks out the repository under $GITHUB_WORKSPACE
+
+            -   name: Set up Node.js
+                uses: actions/setup-node@v2
+                with:
+                    node-version: '18' # Version number can be changed based on your needs
+
+            -   name: Install dependencies
+                run: npm install
+
+            -   name: npm build
+                run: npm run build
+
+            -   name: email install
+                run : sudo apt-get install mailutils   
+
+    deploy:
+        needs: build
+        runs-on: ubuntu-latest
+        steps:
+        -   name: Checkout code
+            uses: actions/checkout@v2
+
+        -   name: send email
+            run: mail -s "teste" lucas@arqui.dev <<< "push feito "
