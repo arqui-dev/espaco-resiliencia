@@ -36,4 +36,4 @@ jobs:
             uses: actions/checkout@v2
 
         -   name: send email
-            run: mail -s "teste" lucas@arqui.dev <<< "push feito "
+            run: mail -s "teste" lucas@arqui.dev <<< "push feito " 
