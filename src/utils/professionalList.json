@@ -38,6 +38,18 @@
         "stamp_picture":false
     },
     {
+        "_id": 3,
+        "name": "Maisa Pegrucci Lopes Duarte",
+        "specialty": "Psicóloga",
+        "register": "CRP: 06/127169",
+        "description": "Meu nome é  Maisa Pegrucci Lopes Duarte, sou formada em Psicologia pela Universidade Estadual Paulista desde 2015 e deste então venho atuando no ambiente clínico.  Trabalho com psicoterapia com orientação psicanalítica. Tenho experiência clínica com ansiedade,  depressão,  sexualidade. Trabalho também voltado para mães e toda sua jornada maternal (gestação,  parto, puerperio), depressão pós parto, baby blues e também aos tentantes e todo o processo físico e psicológico. Acolhimento e acompanhamento aos adolescentes nesse momento de desenvolvimento,  descoberta e decisões. Enfim, meu trabalho é pautado no olhar e escuta do ser humano em toda sua essência.",
+        "picture" : true,
+        "linkToProducts":"",
+        "stamp":3.3,
+        "_idFoto":"",
+        "stamp_picture":false
+    },
+    {
         "_id": 4,
         "name": "Bruna de Almeida Linhares Sola",
         "specialty": "Psicóloga",
