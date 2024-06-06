@@ -15,11 +15,11 @@ export const UnitList = () => {
                     return(
                         <div className="column is-12-mobile is-6-tablet is-5-desktop is-4-widescreen">
                             <div className="card">
-                                <div className="card-image">
+                                {/* <div className="card-image">
                                     <figure className="image is-3by2">
                                         <img src={element.picture} alt={element.unitName}></img>
                                     </figure>
-                                </div>
+                                </div> */}
                                 <div className="card-content">
                                     <div className="media">
                                         <div className="media-content">
